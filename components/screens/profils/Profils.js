@@ -2,7 +2,7 @@ import React from "react";
 import { View, Text, StyleSheet, TextInput, Button } from 'react-native';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import ProfilsImage from "./Profils_image";
-
+// il s'agit d'un test
 const Tab = createBottomTabNavigator();
 
 export default class Accueil extends React.Component {
